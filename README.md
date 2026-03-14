@@ -1,6 +1,7 @@
 x86 Assembly Calculator
 
 A floating-point calculator written in x86 Assembly using the SASM IDE. This project serves as a practical application of x86 architecture concepts and data structure management.
+---
 How It Works
 
 The program processes an input string containing two floating-point values and a mathematical operator (e.g., 4.5+7.75).
@@ -10,7 +11,7 @@ The program processes an input string containing two floating-point values and a
   - Calculation: It performs the floating-point arithmetic.
 
   - Output: The result is printed to the terminal with a precision of up to two decimal places.
-
+---
 Roadmap & Upcoming Updates
 
 To improve the robustness and portability of the project, the following updates are planned:
